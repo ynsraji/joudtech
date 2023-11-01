@@ -1,0 +1,46 @@
+{
+  "name": "جود تيك",
+  "short_name": "جود تيك",
+  "start_url": "https://www.joud4tech.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d70005",
+  "description": "جود تيك تقدم المعلومات بشكل واضح ومنظم، وتوفر شروحات وافية للمفاهيم التقنية، ",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s48/LOGOOO.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s72/LOGOOO.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s96/LOGOOO.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s144/LOGOOO.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s168/LOGOOO.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s192/LOGOOO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutR__TPtrcLBRMDMSPxDw64hAnV7jZuPuVMrLimX9VpqNVKAS1gPRSzONkWy9E1RH5GsB-fMgrrKKxPOgJLPLT1PqYw7rTTERTrWmPw3efdoHLgvSrE847IQot4OCcBHXQTW33Jngcly66Fh7L7BVOLMTXA1NXqZuJTaJ_n-oZfbU4yK6KzOhyY08sgY/s512/LOGOOO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
